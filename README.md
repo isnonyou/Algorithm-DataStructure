@@ -7,7 +7,7 @@
 ## :four_leaf_clover:멤버
 
 
-## :notebook:스케쥴
+## :alarm_clock:스케쥴
 
 ## :muscle:룰
 
