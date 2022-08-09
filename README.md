@@ -7,10 +7,9 @@
 ## :four_leaf_clover:멤버
 19기
 
-| 김민정 | 김주은 | 김준성 | 장정윤 |
+| 김민정 | 김주은 | [김준성](https://github.com/newJunsung) | 장정윤 |
 | ----- | ----- | ----- | ----- |
 | X | X | ![sample](https://cdn.kbmaeil.com/news/photo/201904/813538_841153_4551.jpg) | X |
-| X | X | https://github.com/newJunsung | X |
 
 20기
 
