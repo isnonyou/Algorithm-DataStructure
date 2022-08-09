@@ -57,7 +57,7 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 2. Commit Message는 백준알고리즘 1745번
 문제 번호는 백준은 b를, SWEA는 S를 붙여서 업로드 한다. ex) b2577.java s1234.java
 3. 문제에 대한 자유로운 질문과 회고는 스터디 시간에 공유한다.
-4. 언어는 <B>논의필요</B> 내가 생각하는건 <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <- 자유로운 의견 받기
+4. 언어는 <B>논의필요</B> 내가 생각하는건 Python, Java <- 자유로운 의견 받기
 5. 1,2학년은 <B>논의필요</B> <- 일단은 C or C++
 6. 
 
