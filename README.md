@@ -9,7 +9,7 @@
 
 | 김민정 | 김주은 | [김준성](https://github.com/newJunsung) | 장정윤 |
 | ----- | ----- | ----- | ----- |
-| X | X | ![sample](https://cdn.kbmaeil.com/news/photo/201904/813538_841153_4551.jpg) | X |
+| X | X | [![sample](https://avatars.githubusercontent.com/u/107932188?s=400&u=4ea2f7c4bdf629e566f67f74dc16f8f02d5dd645&v=4)](https://github.com/newJunsung) | X |
 
 20기
 
