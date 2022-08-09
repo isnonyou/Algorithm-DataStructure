@@ -5,6 +5,9 @@
 <br>
 
 ## :four_leaf_clover:멤버
+19기
+
+20기
 
 
 ## :alarm_clock:스케쥴
