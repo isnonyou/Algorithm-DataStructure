@@ -7,7 +7,7 @@
 ## :four_leaf_clover:멤버
 19기
 
-| 김민정 | 김주은 | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="100" height="100"></a> | 장정윤 |
+| X | X | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"></a> | X |
 | ----- | ----- | ----- | ----- |
 | X | X | [김준성](https://github.com/newJunsung) | X |
 
