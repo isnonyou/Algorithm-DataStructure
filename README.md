@@ -2,7 +2,13 @@
 <br>
 <B>TODO: 백준알고리즘 사이트 링크걸기, Git DeskTop 링크걸기, 프로그래머스링크, 삼성소프트웨어링크</B>
 <br>
-<B>TODO: 나동빈 이것이 코딩테스트다 링크걸기, 점프투잇파이썬 링크걸기</B>
+<B>TODO: 나동빈 이것이 코딩테스트다 링크걸기</B><br>
+<a href = "https://wikidocs.net/book/1">파이썬</a><br>
+<a href = "https://github.com/ndb796/python-for-coding-test">이것이 코딩테스트다.gitCode</a><br>
+<a href = "https://desktop.github.com">GitDeskTop</a><br>
+<a href = "https://www.acmicpc.net">백준알고리즘</a><br>
+<a href = "https://school.programmers.co.kr/learn/challenges">프로그래머스</a><br>
+<a href = "https://swexpertacademy.com/main/main.do">삼성SwExpertAcademy</a><br>
 <br>
 
 ## :four_leaf_clover:멤버
