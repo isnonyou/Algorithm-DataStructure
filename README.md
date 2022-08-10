@@ -78,6 +78,7 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 6. Review 및 Comment에는 경어체, 평어체 아무거나 사용해도 되나, 욕설과 비속어는 금지 ex) 아 ㅋ ㅈㄴ 어렵네 ㅋ <br>
 왜? Repogitoty가 Private가 아니라 Public임 일반 사람들도 볼 수 있음.
 7. 다른이의 폴더를 참고하여 볼 수 있으나 허락없이 수정하지 말 것
+8. Branch Protection을 사용하여, Reviewer 2명 이상에게 Approve를 받지 못하면 Merge가 안됨
 <br>
 <br>
 
