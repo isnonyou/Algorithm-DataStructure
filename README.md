@@ -42,7 +42,7 @@
 
 ## :book:자료구조 및 알고리즘 목차
 feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩테스트다
-<B>TODO : 항목링크걸기 + 어떤거 공부할지 더 생각해보기</B>
+<B>TODO : 리팩토링 필수</B>
 
 1. 시간복잡도, 공간복잡도
 2. 재귀
@@ -70,13 +70,13 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 ## :muscle:규칙 및 주의 사항
 1. 백준알고리즘사이트 혹은 그와 비슷한 알고리즘 사이트에서 일주일에 1~2 문제를 푼다. <- 최소 기준 더 풀어도 됨 <br>
 2. Commit Message는 최대한 구체적으로 ex) 백준알고리즘 1715번 카드 정렬하기, 프로그래머스 Lv5 방의갯수 <br>
-자신이 공부한 자료는 ex) 자료구조 연결리스트<br>
-3. 문제에 대한 자유로운 질문과 회고는 스터디 시간에 공유한다.<br>
-4. 언어는 Python, Java, C, C++, Kotlin, JavaScript, Swift 자유롭게 사용가능 단, Ruby같은 건 관리자들이 못 봄.<br>
-5. 열심히 풀고 Commit -> Push -> PR -> Comment작성 -> ReviewRequest -> 2명이상에게 Approve 받기 -> Merge<br>
-자세한 설명은 아래 참고<br>
-6. Review 및 Comment에는 경어체, 평어체 아무거나 사용해도 되나, 욕설과 비속어는 금지 ex) 아 ㅋ ㅈㄴ 어렵네 ㅋ<br>
-왜? Repogitoty가 Private가 아니라 Public임 일반 사람들도 볼 수 있음.<br>
+자신이 공부한 자료는 ex) 자료구조 연결리스트
+3. 문제에 대한 자유로운 질문과 회고는 스터디 시간에 공유한다.
+4. 언어는 Python, Java, C, C++, Kotlin, JavaScript, Swift 자유롭게 사용가능 단, Ruby같은 건 관리자들이 못 봄.
+5. 열심히 풀고 Commit -> Push -> PR -> Comment작성 -> ReviewRequest -> 2명이상에게 Approve 받기 -> Merge
+자세한 설명은 아래 참고
+6. Review 및 Comment에는 경어체, 평어체 아무거나 사용해도 되나, 욕설과 비속어는 금지 ex) 아 ㅋ ㅈㄴ 어렵네 ㅋ
+왜? Repogitoty가 Private가 아니라 Public임 일반 사람들도 볼 수 있음.
 <br>
 <br>
 
