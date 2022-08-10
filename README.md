@@ -84,4 +84,4 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 <br>
 
 ## :question:사용법
-<B>준성이랑 TEST</B>
+<B>TESTING</B>
