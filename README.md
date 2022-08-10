@@ -49,7 +49,7 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 2. <a href = "https://www.secmem.org/blog/2021/07/09/recursion/">재귀</a><br>
 3. <a href = "https://yjg-lab.tistory.com/118">단순 연결리스트</a><br>
 4. <a href = "https://yjg-lab.tistory.com/120?category=932096">원형 연결리스트</a><br>
-5. 양방향 연결리스트
+5. <a href = "https://yjg-lab.tistory.com/122?category=932096">양방향 연결리스트</a><br>
 6. 스택
 7. 큐
 8. 트리
