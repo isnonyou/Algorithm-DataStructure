@@ -46,7 +46,7 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 <B>TODO : 리팩토링 필수</B>
 
 1. <a href= "https://velog.io/@cha-suyeon/Algorithm-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EA%B3%B5%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84">시간복잡도, 공간복잡도</a><br>
-2. 재귀
+2. <a href = "https://www.secmem.org/blog/2021/07/09/recursion/">재귀</a><br>
 3. 단순 연결리스트
 4. 원형 연결리스트
 5. 양방향 연결리스트
