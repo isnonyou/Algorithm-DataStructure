@@ -13,6 +13,7 @@
 <a href = "https://swexpertacademy.com/main/main.do">삼성SwExpertAcademy</a><br>
 <a href = "https://wikidocs.net/book/1">파이썬</a><br>
 <a href = "https://github.com/ndb796/python-for-coding-test">이것이 코딩테스트다.gitCode</a><br>
+<a href = "https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC">이것이 코딩테스트다 무료강의</a><br>
 <a href = "https://github.com/onlybooks/algorithm-interview">파이썬 알고리즘 인터뷰 문제풀이</a><br>
 <br>
 
@@ -83,4 +84,4 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 <br>
 
 ## :question:사용법
-<B>TODO: TESTing</B>
+<B>준성이랑 TEST</B>
