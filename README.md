@@ -13,6 +13,7 @@
 <a href = "https://swexpertacademy.com/main/main.do">삼성SwExpertAcademy</a><br>
 <a href = "https://wikidocs.net/book/1">파이썬</a><br>
 <a href = "https://github.com/ndb796/python-for-coding-test">이것이 코딩테스트다.gitCode</a><br>
+<a href = "https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC">이것이 코딩테스트다 무료강의</a><br>
 <a href = "https://github.com/onlybooks/algorithm-interview">파이썬 알고리즘 인터뷰 문제풀이</a><br>
 <br>
 
@@ -42,9 +43,9 @@
 
 ## :book:자료구조 및 알고리즘 목차
 feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩테스트다
-<B>TODO : 항목링크걸기 + 어떤거 공부할지 더 생각해보기</B>
+<B>TODO : 리팩토링 필수</B>
 
-1. 시간복잡도, 공간복잡도
+1. <a href= "https://velog.io/@cha-suyeon/Algorithm-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EA%B3%B5%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84">시간복잡도, 공간복잡도</a><br>
 2. 재귀
 3. 단순 연결리스트
 4. 원형 연결리스트
@@ -68,12 +69,17 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 <br>
 
 ## :muscle:규칙 및 주의 사항
-1. 백준알고리즘사이트에서 일주일에 1~2 문제를 푼다. <- 최소 기준 더 풀어도 됨
-2. Commit Message는 <B>논의필요</B>
+1. 백준알고리즘사이트 혹은 그와 비슷한 알고리즘 사이트에서 일주일에 1~2 문제를 푼다. <- 최소 기준 더 풀어도 됨 <br>
+2. Commit Message는 최대한 구체적으로 ex) 백준알고리즘 1715번 카드 정렬하기, 프로그래머스 Lv5 방의갯수 <br>
+자신이 공부한 자료는 ex) 자료구조 연결리스트
 3. 문제에 대한 자유로운 질문과 회고는 스터디 시간에 공유한다.
-4. 언어는 <B>논의필요</B> 내가 생각하는건 Python, Java <- 자유로운 의견 받기
-5. 1,2학년은 <B>논의필요</B> <- 일단은 C or C++
-6. 
+4. 언어는 Python, Java, C, C++, Kotlin, JavaScript, Swift 자유롭게 사용가능 단, Ruby같은 건 관리자들이 못 봄.
+5. 열심히 풀고 Commit -> Push -> PR -> Comment작성 -> ReviewRequest -> 2명이상에게 Approve 받기 -> Merge
+자세한 설명은 아래 참고
+6. Review 및 Comment에는 경어체, 평어체 아무거나 사용해도 되나, 욕설과 비속어는 금지 ex) 아 ㅋ ㅈㄴ 어렵네 ㅋ <br>
+왜? Repogitoty가 Private가 아니라 Public임 일반 사람들도 볼 수 있음.
+7. 다른이의 폴더를 참고하여 볼 수 있으나 허락없이 수정하지 말 것
+8. Branch Protection을 사용하여, Reviewer 2명 이상에게 Approve를 받지 못하면 Merge가 안됨
 <br>
 <br>
 
