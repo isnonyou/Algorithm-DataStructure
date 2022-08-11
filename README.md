@@ -3,6 +3,7 @@
 <br>
 <B>필수</B>
 <br>
+<a href = "https://git-scm.com/download/win">Git다운로드</a><br>
 <a href = "https://desktop.github.com">GitDeskTop</a><br>
 <a href = "https://www.acmicpc.net">백준알고리즘</a><br>
 <br>
