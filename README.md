@@ -21,9 +21,9 @@
 
 ## :four_leaf_clover:멤버
 **19기**
-| <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/68533847?v=4" width="90" height="90"></a> | X | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"></a> | X |
+| <a href="https://github.com/jeinie"><img src="https://avatars.githubusercontent.com/u/68533847?v=4" width="90" height="90"></a> | X | X | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"></a> |
 | ----- | ----- | ----- | ----- |
-| [장정윤](https://github.com/jeinie) | X | [김준성](https://github.com/newJunsung) | X |
+| [장정윤](https://github.com/jeinie) | X | X | [김준성](https://github.com/newJunsung) |
 
 **20기**
 | X | X | <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | X | X | X |
