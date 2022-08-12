@@ -83,4 +83,65 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 <br>
 
 ## :question:사용법
-<B>TESTING</B>
+![1](https://user-images.githubusercontent.com/58154638/184289798-73195cb5-3d9d-4fdb-a5f2-dc6e87120063.jpg)
+<B>1. HSU-DCnM-Study/Algorithm-DataStructure에 들어와서 오른쪽 상단에 Fork 클릭 </B><br>
+<br>
+![2](https://user-images.githubusercontent.com/58154638/184289805-4a2c034b-f3da-4643-98b2-21a478d9db5f.jpg)
+<B>2. Repogitory 이름을 확인 후에 Create 클릭 </B><br>
+<br>
+![3](https://user-images.githubusercontent.com/58154638/184289810-943047c5-8446-4a54-8270-7cb45920c2a9.jpg)
+<B>3. 내 프로필로 돌아와서 맨위에 내 Repogitory 확인 </B><br>
+<br>
+![4](https://user-images.githubusercontent.com/58154638/184289815-c0f488bf-c57d-438b-a2e4-7952d180bada.jpg)
+<B>4. Fork 해 온 Repogitory 확인 후에 클릭해서 들어가기 </B><br>
+<br>
+![5](https://user-images.githubusercontent.com/58154638/184289824-dd7a1971-ebc7-4e7d-b3f6-b4e5cf0588c6.jpg)
+<B>5. 왼쪽 상단에 내 아이디/Algorithm-DataStructure이 되어있다면 잘 된 것, 이후에 Git Clone을 위해 주소 복붙!</B><br>
+<br>
+![6](https://user-images.githubusercontent.com/58154638/184289830-31edab43-a931-4585-84ee-7465e53799af.jpg)
+<B>6. HTTPS에 있는 주소 복붙!! </B><br>
+<br>
+![7](https://user-images.githubusercontent.com/58154638/184289835-6b2c2068-2549-4f29-a618-d9987ff4e712.jpg)
+<B>7. Git Bash를 이용하여 내가 원하는 파일 경로로 이동하여 명렁어" Git clone 주소 " 입력하기 </B><br>
+<B> ※주의사항 : 이동 경로중에 파일명이 한글로 되어있다면, 나중에 문제가 될 수 잇음 ex) C:\공부\~~~ (x) // C:\Education\~~~(o)</B><br>
+<br>
+![8](https://user-images.githubusercontent.com/58154638/184289840-95af4127-815f-40d0-bcfb-d35a5c62d58b.jpg)
+<B>8. 이제 GitDesktop에 내 아이디로 접속하여, 내가 받은 Repogitory 셋팅하기 경로명, 파일 이름 확인하기 </B><br>
+<br>
+![9](https://user-images.githubusercontent.com/58154638/184289845-abf7a689-6837-4db8-84bf-b3875c349388.jpg) <br>
+<B>9. 학번-이름으로 된 자기 파일로 경로를 잡는 것이 아님!! </B><br>
+<br>
+![10](https://user-images.githubusercontent.com/58154638/184289847-05f05c68-e33b-4c5c-ae03-e0dd8a248ba1.jpg)
+<B>10. add로 추가하였다면 저렇게 자연스럽게 GitDesktop에 Repogitory가 추가 된 것을 볼 수 있음</B><br>
+<B> -- 여기까지가 기본 셋팅 -- </B><br>
+<br>
+![11](https://user-images.githubusercontent.com/58154638/184289849-a1c8d940-418f-4803-8390-fd60dac97ca0.jpg)
+<B>11. (visualStudio 기준 예시) 열심히 작업을 하고 항상 Ctrl + S로 저장하기, 저장안하면 GitDeskTop에서 변경사항이 안 뜸 </B><br>
+<br>
+![12](https://user-images.githubusercontent.com/58154638/184289854-a786a8f5-10d3-4037-b324-ebc3c4141593.jpg)
+<B>12. 열심히 문제를 풀고 GitDesktop으로 돌아와서 변경사항 다시 확인하고 Commit Message 작성하기(최대한 구체적으로) 이후 Commit하고 Push하기 </B><br>
+<br>
+![13](https://user-images.githubusercontent.com/58154638/184289859-d30c3c63-b3dc-4546-9251-22b7acd10ec8.jpg)
+<B>13. Push이후 변경 사항 확인하기 </B><br>
+<br>
+![14](https://user-images.githubusercontent.com/58154638/184289863-16d75eb3-21a4-4f63-b31a-3e55caf63218.jpg)
+<B>14. Pull Resquests 클릭 -> New Pull Request 클릭하기 </B><br>
+<br>
+![15](https://user-images.githubusercontent.com/58154638/184289869-beb2baac-5ad5-40a0-9aef-0de6bdd4a36d.jpg)
+<B>15. Create Pull Request 클릭 </B><br>
+<br>
+![16](https://user-images.githubusercontent.com/58154638/184289875-6c4b6c79-4bca-4933-8b38-9dfd0478a798.jpg)
+<B>16. Comment는 문제에 대한 것 혹은 무엇을 공부했는지에 대해서 자세하게 작성하기 이후 Create Pull Request 클릭 </B><br>
+<br>
+![17](https://user-images.githubusercontent.com/58154638/184289878-73dfa293-0f52-49e1-afd6-af2d50c70bfc.jpg)
+<B>17. 오른쪽 상단에 Review Request 클릭 이후 동아리 누구에게나 요청하기(최소2명이상) </B><br>
+<br>
+![18](https://user-images.githubusercontent.com/58154638/184289882-d36a07c3-288c-4cb0-bef2-9140c5fac55a.jpg)
+<B>18. Review 요청을 받은이들은 열심히 물어보고, 질문하기 궁금증이 해결되었거나 피드백이 반영되었다면 Approve 체크 후, LGTM(Looks Good To Me 약자) 남기기 </B><br>
+<br>
+<B> 예시 </B><br>
+![KakaoTalk_20220812_122844584](https://user-images.githubusercontent.com/58154638/184292627-3a8dc649-61ef-438e-81b8-90bbcba27ad1.jpg) <br>
+![KakaoTalk_20220812_122845312](https://user-images.githubusercontent.com/58154638/184292635-396704b7-f742-4470-91d8-3edff46bfbe4.jpg) <br>
+
+
+
