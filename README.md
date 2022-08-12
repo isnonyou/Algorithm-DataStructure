@@ -3,6 +3,14 @@
 <B>TODO : 1,2학년 논의 필수 : <- 난이도 조정 필수 및 방향성 스터디+튜터링 혼합형태로</B>
 <br>
 
+## :zap:목차
+* [링크](#iphone링크)
+* [멤버](#four_leaf_clover멤버)
+* [스케쥴](#alarm_clock스케쥴)
+* [자료구조 및 알고리즘 목차](#book자료구조-및-알고리즘-목차)
+* [규칙 및 주의사항](#muscle규칙-및-주의사항)
+* [사용법](#question사용법)
+
 ## :iphone:링크
 * <B>다운로드</B>
   + <a href = "https://git-scm.com/download/win">Git(필수)</a>
@@ -17,6 +25,8 @@
   + <a href = "https://github.com/ndb796/python-for-coding-test">이것이 코딩테스트다.gitCode</a><br>
   + <a href = "https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC">이것이 코딩테스트다 무료강의</a><br>
   + <a href = "https://github.com/onlybooks/algorithm-interview">파이썬 알고리즘 인터뷰 문제풀이</a><br>
+
+_[목차로 이동](#zap목차)_
 
 ## :four_leaf_clover:멤버
 **19기**
@@ -34,10 +44,12 @@
 | ----- | ----- |
 | X | X |
 
+_[목차로 이동](#zap목차)_
+
 ## :alarm_clock:스케쥴
 <B>TODO : 논의 필요</B>
-<br>
-<br>
+
+_[목차로 이동](#zap목차)_
 
 ## :book:자료구조 및 알고리즘 목차
 feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩테스트다
@@ -63,10 +75,10 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 18. 다이나믹 프로그래밍
 19. 최단경로
 20. 브루트포스
-<br>
-<br>
 
-## :muscle:규칙 및 주의 사항
+_[목차로 이동](#zap목차)_
+
+## :muscle:규칙 및 주의사항
 1. 오른쪽 상단에 현 Repogitory를 Fork하여 자신의 깃 저장소로 가져간다.
 2. 자신의 깃 Repogitory에 가져온 것을 확인한 후 git 주소를 복사하여, git Bash 혹은 Cmd를 이용하여 자신이 원하는 파일에 git clone!!
 3. 백준알고리즘사이트 혹은 그와 비슷한 알고리즘 사이트에서 일주일에 1~2 문제를 푼다. <- 최소 기준 더 풀어도 됨 <br>
@@ -80,8 +92,8 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 왜? Repository가 Private가 아니라 Public임 일반 사람들도 볼 수 있음.
 9. 다른이의 폴더를 참고하여 볼 수 있으나 허락없이 수정하지 말 것
 10. Branch Protection을 사용하여, Reviewer 2명 이상에게 Approve를 받지 못하면 Merge가 안됨
-<br>
-<br>
+
+_[목차로 이동](#zap목차)_
 
 ## :question:사용법
 ![1](https://user-images.githubusercontent.com/58154638/184289798-73195cb5-3d9d-4fdb-a5f2-dc6e87120063.jpg)
@@ -144,5 +156,4 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 ![KakaoTalk_20220812_122844584](https://user-images.githubusercontent.com/58154638/184292627-3a8dc649-61ef-438e-81b8-90bbcba27ad1.jpg) <br>
 ![KakaoTalk_20220812_122845312](https://user-images.githubusercontent.com/58154638/184292635-396704b7-f742-4470-91d8-3edff46bfbe4.jpg) <br>
 
-
-
+_[목차로 이동](#zap목차)_
