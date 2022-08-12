@@ -1,23 +1,21 @@
 # :sunglasses:알고리즘과 자료구조를 부수고싶은 DC&amp;M 
-<br>
+
 <B>TODO : 1,2학년 논의 필수 : <- 난이도 조정 필수 및 방향성 스터디+튜터링 혼합형태로</B>
 <br>
-<B>필수</B>
-<br>
-<a href = "https://git-scm.com/download/win">Git다운로드</a><br>
-<a href = "https://desktop.github.com">GitDeskTop</a><br>
-<a href = "https://www.acmicpc.net">백준알고리즘</a><br>
-<br>
-<br>
-<B>참고자료</B>
-<br>
-<a href = "https://school.programmers.co.kr/learn/challenges">프로그래머스</a><br>
-<a href = "https://swexpertacademy.com/main/main.do">삼성SwExpertAcademy</a><br>
-<a href = "https://wikidocs.net/book/1">파이썬</a><br>
-<a href = "https://github.com/ndb796/python-for-coding-test">이것이 코딩테스트다.gitCode</a><br>
-<a href = "https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC">이것이 코딩테스트다 무료강의</a><br>
-<a href = "https://github.com/onlybooks/algorithm-interview">파이썬 알고리즘 인터뷰 문제풀이</a><br>
-<br>
+
+* <B>다운로드</B>
+  + <a href = "https://git-scm.com/download/win">Git(필수)</a>
+    - 설치법: [for Windows](https://github.com/HSU-DCnM-Study/Algorithm-DataStructure/blob/main/resource/git설치법/git설치법%20for%20Windows.pdf) / [for Mac](https://github.com/HSU-DCnM-Study/Algorithm-DataStructure/blob/main/resource/git설치법/git설치법%20for%20Mac.pdf)
+  + <a href = "https://desktop.github.com">GitDeskTop(필수)</a>
+* <b>코딩테스트 사이트</b>
+  + <a href = "https://www.acmicpc.net">백준알고리즘(필수)</a><br>
+  + <a href = "https://school.programmers.co.kr/learn/challenges">프로그래머스</a><br>
+  + <a href = "https://swexpertacademy.com/main/main.do">삼성SwExpertAcademy</a><br>
+* <b>참고자료</b>
+  + <a href = "https://wikidocs.net/book/1">파이썬</a><br>
+  + <a href = "https://github.com/ndb796/python-for-coding-test">이것이 코딩테스트다.gitCode</a><br>
+  + <a href = "https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC">이것이 코딩테스트다 무료강의</a><br>
+  + <a href = "https://github.com/onlybooks/algorithm-interview">파이썬 알고리즘 인터뷰 문제풀이</a><br>
 
 ## :four_leaf_clover:멤버
 **19기**
@@ -34,8 +32,6 @@
 | X | X |
 | ----- | ----- |
 | X | X |
-<br>
-<br>
 
 ## :alarm_clock:스케쥴
 <B>TODO : 논의 필요</B>
