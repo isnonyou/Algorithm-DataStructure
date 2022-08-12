@@ -72,7 +72,7 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 4. Commit Message는 최대한 구체적으로 ex) 백준알고리즘 1715번 카드 정렬하기, 프로그래머스 Lv5 방의갯수 <br>
 자신이 공부한 자료는 ex) 자료구조 연결리스트
 5. 문제에 대한 자유로운 질문과 회고는 스터디 시간에 공유한다.
-6. 언어는 Python, Java, C, C++, Kotlin, JavaScript, Swift 자유롭게 사용가능 단, Ruby같은 건 관리자들이 못 봄.
+6. 언어는 Python, Java, C, C++, Kotlin, JavaScript, Swift 자유롭게 사용가능 단, Ruby같은 건 관리자들이 못 봄. TODO: 논의필요
 7. 열심히 풀고 Commit -> Push -> PR -> Comment작성 -> ReviewRequest -> 2명이상에게 Approve 받기 -> Merge
 자세한 설명은 아래 참고
 8. Review 및 Comment에는 경어체, 평어체 아무거나 사용해도 되나, 욕설과 비속어는 금지<br>
