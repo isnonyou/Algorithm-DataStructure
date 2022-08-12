@@ -1,5 +1,6 @@
 # :sunglasses:알고리즘과 자료구조를 부수고싶은 DC&amp;M 
 <br>
+<B>TODO : 1,2학년 논의 필수</B>
 <br>
 <B>필수</B>
 <br>
