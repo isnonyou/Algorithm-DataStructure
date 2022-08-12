@@ -60,7 +60,7 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 3. <a href = "https://yjg-lab.tistory.com/118">단순 연결리스트</a><br>
 4. <a href = "https://yjg-lab.tistory.com/120?category=932096">원형 연결리스트</a><br>
 5. <a href = "https://yjg-lab.tistory.com/122?category=932096">양방향 연결리스트</a><br>
-6. 스택
+6. <a href = "https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.htm">스택</a><br>
 7. 큐
 8. 트리
 9. 우선순위 큐
