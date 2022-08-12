@@ -19,8 +19,12 @@
 <br>
 
 ## :four_leaf_clover:멤버
-**19기**
+**BOSS**
+| X |
+| ----- |
+| X |
 
+**19기**
 | X | X | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"></a> | X |
 | ----- | ----- | ----- | ----- |
 | X | X | [김준성](https://github.com/newJunsung) | X |
