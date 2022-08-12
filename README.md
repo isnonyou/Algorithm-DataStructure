@@ -61,20 +61,13 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 4. <a href = "https://yjg-lab.tistory.com/120?category=932096">원형 연결리스트</a><br>
 5. <a href = "https://yjg-lab.tistory.com/122?category=932096">양방향 연결리스트</a><br>
 6. <a href = "https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.htm">스택</a><br>
-7. 큐
-8. 트리
-9. 우선순위 큐
-10. 테이블과 해쉬
-11. 그래프 
-12. 그리디
-13. 구현
-14. DFS
-15. BFS
-16. 정렬
-17. 이진탐색
-18. 다이나믹 프로그래밍
-19. 최단경로
-20. 브루트포스
+7. <a href = "https://chanhuiseok.github.io/posts/algo-26/">큐</a><br>
+8. <a href = "https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html">트리</a><br>
+9. <a href = "https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html">힙</a><br>
+10. <a href = "https://suyeon96.tistory.com/31">우선순위 큐</a><br>
+11. <a href = "https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html">그래프</a><br>
+12. DFS,BFS
+14. 그리디
 
 _[목차로 이동](#zap목차)_
 
