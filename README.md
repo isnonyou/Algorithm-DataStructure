@@ -3,6 +3,7 @@
 <B>TODO : 1,2학년 논의 필수 : <- 난이도 조정 필수 및 방향성 스터디+튜터링 혼합형태로</B>
 <br>
 
+## :iphone:링크
 * <B>다운로드</B>
   + <a href = "https://git-scm.com/download/win">Git(필수)</a>
     - 설치법: [for Windows](https://github.com/HSU-DCnM-Study/Algorithm-DataStructure/blob/main/resource/git설치법/git설치법%20for%20Windows.pdf) / [for Mac](https://github.com/HSU-DCnM-Study/Algorithm-DataStructure/blob/main/resource/git설치법/git설치법%20for%20Mac.pdf)
@@ -87,13 +88,13 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 <B>1. HSU-DCnM-Study/Algorithm-DataStructure에 들어와서 오른쪽 상단에 Fork 클릭 </B><br>
 <br>
 ![2](https://user-images.githubusercontent.com/58154638/184289805-4a2c034b-f3da-4643-98b2-21a478d9db5f.jpg)
-<B>2. Repogitory 이름을 확인 후에 Create 클릭 </B><br>
+<B>2. Repository 이름을 확인 후에 Create 클릭 </B><br>
 <br>
 ![3](https://user-images.githubusercontent.com/58154638/184289810-943047c5-8446-4a54-8270-7cb45920c2a9.jpg)
-<B>3. 내 프로필로 돌아와서 맨위에 내 Repogitory 확인 </B><br>
+<B>3. 내 프로필로 돌아와서 맨위에 내 Repository 확인 </B><br>
 <br>
 ![4](https://user-images.githubusercontent.com/58154638/184289815-c0f488bf-c57d-438b-a2e4-7952d180bada.jpg)
-<B>4. Fork 해 온 Repogitory 확인 후에 클릭해서 들어가기 </B><br>
+<B>4. Fork 해 온 Repository 확인 후에 클릭해서 들어가기 </B><br>
 <br>
 ![5](https://user-images.githubusercontent.com/58154638/184289824-dd7a1971-ebc7-4e7d-b3f6-b4e5cf0588c6.jpg)
 <B>5. 왼쪽 상단에 내 아이디/Algorithm-DataStructure이 되어있다면 잘 된 것, 이후에 Git Clone을 위해 주소 복붙!</B><br>
@@ -103,7 +104,7 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 <br>
 ![7](https://user-images.githubusercontent.com/58154638/184289835-6b2c2068-2549-4f29-a618-d9987ff4e712.jpg)
 <B>7. Git Bash를 이용하여 내가 원하는 파일 경로로 이동하여 명렁어" Git clone 주소 " 입력하기 </B><br>
-<B> ※주의사항 : 이동 경로중에 파일명이 한글로 되어있다면, 나중에 문제가 될 수 잇음 ex) C:\공부\~~~ (x) // C:\Education\~~~(o)</B><br>
+<B> ※주의사항 : 이동 경로중에 파일명이 한글로 되어있다면, 나중에 문제가 될 수 있음 ex) C:\공부\~~~ (x) // C:\Education\~~~(o)</B><br>
 <br>
 ![8](https://user-images.githubusercontent.com/58154638/184289840-95af4127-815f-40d0-bcfb-d35a5c62d58b.jpg)
 <B>8. 이제 GitDesktop에 내 아이디로 접속하여, 내가 받은 Repogitory 셋팅하기 경로명, 파일 이름 확인하기 </B><br>
@@ -112,7 +113,7 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 <B>9. 학번-이름으로 된 자기 파일로 경로를 잡는 것이 아님!! </B><br>
 <br>
 ![10](https://user-images.githubusercontent.com/58154638/184289847-05f05c68-e33b-4c5c-ae03-e0dd8a248ba1.jpg)
-<B>10. add로 추가하였다면 저렇게 자연스럽게 GitDesktop에 Repogitory가 추가 된 것을 볼 수 있음</B><br>
+<B>10. add로 추가하였다면 저렇게 자연스럽게 GitDesktop에 Repository가 추가 된 것을 볼 수 있음</B><br>
 <B> -- 여기까지가 기본 셋팅 -- </B><br>
 <br>
 ![11](https://user-images.githubusercontent.com/58154638/184289849-a1c8d940-418f-4803-8390-fd60dac97ca0.jpg)
