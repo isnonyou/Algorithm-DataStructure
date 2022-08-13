@@ -3,6 +3,8 @@
 <B>TODO : 1,2학년 논의 필수 : <- 난이도 조정 필수 및 방향성 스터디+튜터링 혼합형태로</B>
 <br>
 
+<B> 일정 : 2022.09.05 ~ 2022.12.23 </B><br>
+
 ## :zap:목차
 * [링크](#iphone링크)
 * [멤버](#four_leaf_clover멤버)
@@ -60,26 +62,19 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 3. <a href = "https://yjg-lab.tistory.com/118">단순 연결리스트</a><br>
 4. <a href = "https://yjg-lab.tistory.com/120?category=932096">원형 연결리스트</a><br>
 5. <a href = "https://yjg-lab.tistory.com/122?category=932096">양방향 연결리스트</a><br>
-6. 스택
-7. 큐
-8. 트리
-9. 우선순위 큐
-10. 테이블과 해쉬
-11. 그래프 
-12. 그리디
-13. 구현
-14. DFS
-15. BFS
-16. 정렬
-17. 이진탐색
-18. 다이나믹 프로그래밍
-19. 최단경로
-20. 브루트포스
+6. <a href = "https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.htm">스택</a><br>
+7. <a href = "https://chanhuiseok.github.io/posts/algo-26/">큐</a><br>
+8. <a href = "https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html">트리</a><br>
+9. <a href = "https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html">힙</a><br>
+10. <a href = "https://suyeon96.tistory.com/31">우선순위 큐</a><br>
+11. <a href = "https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html">그래프</a><br>
+12. DFS,BFS
+14. 그리디
 
 _[목차로 이동](#zap목차)_
 
 ## :muscle:규칙 및 주의사항
-1. 오른쪽 상단에 현 Repogitory를 Fork하여 자신의 깃 저장소로 가져간다.
+1. 오른쪽 상단에 현 Repository를 Fork하여 자신의 깃 저장소로 가져간다.
 2. 자신의 깃 Repogitory에 가져온 것을 확인한 후 git 주소를 복사하여, git Bash 혹은 Cmd를 이용하여 자신이 원하는 파일에 git clone!!
 3. 백준알고리즘사이트 혹은 그와 비슷한 알고리즘 사이트에서 일주일에 1~2 문제를 푼다. <- 최소 기준 더 풀어도 됨 <br>
 4. Commit Message는 최대한 구체적으로 ex) 백준알고리즘 1715번 카드 정렬하기, 프로그래머스 Lv5 방의갯수 <br>
