@@ -17,7 +17,7 @@
 * <B>다운로드</B>
   + <a href = "https://git-scm.com/download/win">Git(필수)</a>
     - 설치법: [for Windows](https://github.com/HSU-DCnM-Study/Algorithm-DataStructure/blob/main/resource/git설치법/git설치법%20for%20Windows.pdf) / [for Mac](https://github.com/HSU-DCnM-Study/Algorithm-DataStructure/blob/main/resource/git설치법/git설치법%20for%20Mac.pdf)
-  + <a href = "https://desktop.github.com">GitDeskTop(필수)</a>
+  + <a href = "https://desktop.github.com">GitHubDeskTop(필수)</a>
 * <b>코딩테스트 사이트</b>
   + <a href = "https://www.acmicpc.net">백준알고리즘(필수)</a><br>
   + <a href = "https://school.programmers.co.kr/learn/challenges">프로그래머스</a><br>
