@@ -5,5 +5,6 @@ def Sausage_cut(S, C) :
         return C
     return Sausage_cut(C, S%C)
 
+print(critic-Sausage_cut(sausage,critic))
 
 asdasdasd
