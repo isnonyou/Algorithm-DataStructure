@@ -54,9 +54,7 @@ _[목차로 이동](#zap목차)_
 _[목차로 이동](#zap목차)_
 
 ## :book:자료구조 및 알고리즘 목차
-feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩테스트다
-<B>TODO : 리팩토링 필수</B>
-
+feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩테스트다, 파이썬 알고리즘 인터뷰
 1. <a href= "https://velog.io/@cha-suyeon/Algorithm-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EA%B3%B5%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84">시간복잡도, 공간복잡도</a><br>
 2. 문자열, 수학, 구현
 3. <a href = "https://www.secmem.org/blog/2021/07/09/recursion/">재귀</a><br>
