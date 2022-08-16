@@ -17,7 +17,7 @@
 * <B>다운로드</B>
   + <a href = "https://git-scm.com/download/win">Git(필수)</a>
     - 설치법: [for Windows](https://github.com/HSU-DCnM-Study/Algorithm-DataStructure/blob/main/resource/git설치법/git설치법%20for%20Windows.pdf) / [for Mac](https://github.com/HSU-DCnM-Study/Algorithm-DataStructure/blob/main/resource/git설치법/git설치법%20for%20Mac.pdf)
-  + <a href = "https://desktop.github.com">GitDeskTop(필수)</a>
+  + <a href = "https://desktop.github.com">GitHubDeskTop(필수)</a>
 * <b>코딩테스트 사이트</b>
   + <a href = "https://www.acmicpc.net">백준알고리즘(필수)</a><br>
   + <a href = "https://school.programmers.co.kr/learn/challenges">프로그래머스</a><br>
@@ -54,29 +54,28 @@ _[목차로 이동](#zap목차)_
 _[목차로 이동](#zap목차)_
 
 ## :book:자료구조 및 알고리즘 목차
-feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩테스트다
-<B>TODO : 리팩토링 필수</B>
-
+feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩테스트다, 파이썬 알고리즘 인터뷰
 1. <a href= "https://velog.io/@cha-suyeon/Algorithm-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EA%B3%B5%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84">시간복잡도, 공간복잡도</a><br>
-2. <a href = "https://www.secmem.org/blog/2021/07/09/recursion/">재귀</a><br>
-3. <a href = "https://yjg-lab.tistory.com/118">단순 연결리스트</a><br>
-4. <a href = "https://yjg-lab.tistory.com/120?category=932096">원형 연결리스트</a><br>
-5. <a href = "https://yjg-lab.tistory.com/122?category=932096">양방향 연결리스트</a><br>
-6. <a href = "https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.htm">스택</a><br>
-7. <a href = "https://chanhuiseok.github.io/posts/algo-26/">큐</a><br>
-8. <a href = "https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html">트리</a><br>
-9. <a href = "https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html">힙</a><br>
-10. <a href = "https://suyeon96.tistory.com/31">우선순위 큐</a><br>
-11. <a href = "https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html">그래프</a><br>
-12. DFS,BFS
-14. 그리디
+2. 문자열, 수학, 구현
+3. <a href = "https://www.secmem.org/blog/2021/07/09/recursion/">재귀</a><br>
+4. <a href = "https://yjg-lab.tistory.com/118">단순 연결리스트</a> ,<a href = "https://yjg-lab.tistory.com/120?category=932096">원형 연결리스트</a> ,<a href = "https://yjg-lab.tistory.com/122?category=932096">양방향 연결리스트</a><br>
+5. <a href = "https://velog.io/@falling_star3/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9DStack%ED%81%90Queue%EB%8D%B1Deque"> 스택, 큐, 덱 </a><br>
+6. <a href = "https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html">트리</a><br>
+7. <a href = "https://suyeon96.tistory.com/31">우선순위 큐, 힙</a><br>
+8. <a href = "https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html">그래프(DFS,BFS)</a><br>
+9. 해시테이블
+10. 정렬
+11. 다이나믹(동적 계획법)
+12. 그리디
+13. 이진탐색
+14. 최단 경로
 
 _[목차로 이동](#zap목차)_
 
 ## :muscle:규칙 및 주의사항
 1. 오른쪽 상단에 현 Repository를 Fork하여 자신의 깃 저장소로 가져간다.
 2. 자신의 깃 Repogitory에 가져온 것을 확인한 후 git 주소를 복사하여, git Bash 혹은 Cmd를 이용하여 자신이 원하는 파일에 git clone!!
-3. 백준알고리즘사이트 혹은 그와 비슷한 알고리즘 사이트에서 일주일에 1~2 문제를 푼다. <- 최소 기준 더 풀어도 됨 <br>
+3. 백준알고리즘사이트 혹은 그와 비슷한 알고리즘 사이트에서 일주일에 1~3 문제를 푼다. <br>
 4. Commit Message는 최대한 구체적으로 ex) 백준알고리즘 1715번 카드 정렬하기, 프로그래머스 Lv5 방의갯수 <br>
 자신이 공부한 자료는 ex) 자료구조 연결리스트
 5. 문제에 대한 자유로운 질문과 회고는 스터디 시간에 공유한다.
