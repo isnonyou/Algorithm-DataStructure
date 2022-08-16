@@ -58,18 +58,19 @@ feat. 참고 자료 : C언어로 쉽게 풀어쓴 자료구조, 이것이 코딩
 <B>TODO : 리팩토링 필수</B>
 
 1. <a href= "https://velog.io/@cha-suyeon/Algorithm-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EA%B3%B5%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84">시간복잡도, 공간복잡도</a><br>
-2. <a href = "https://www.secmem.org/blog/2021/07/09/recursion/">재귀</a><br>
-3. <a href = "https://yjg-lab.tistory.com/118">단순 연결리스트</a><br>
-4. <a href = "https://yjg-lab.tistory.com/120?category=932096">원형 연결리스트</a><br>
-5. <a href = "https://yjg-lab.tistory.com/122?category=932096">양방향 연결리스트</a><br>
-6. <a href = "https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.htm">스택</a><br>
-7. <a href = "https://chanhuiseok.github.io/posts/algo-26/">큐</a><br>
-8. <a href = "https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html">트리</a><br>
-9. <a href = "https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html">힙</a><br>
-10. <a href = "https://suyeon96.tistory.com/31">우선순위 큐</a><br>
-11. <a href = "https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html">그래프</a><br>
-12. DFS,BFS
-14. 그리디
+2. 문자열, 수학, 구현
+3. <a href = "https://www.secmem.org/blog/2021/07/09/recursion/">재귀</a><br>
+4. <a href = "https://yjg-lab.tistory.com/118">단순 연결리스트</a> ,<a href = "https://yjg-lab.tistory.com/120?category=932096">원형 연결리스트</a> ,<a href = "https://yjg-lab.tistory.com/122?category=932096">양방향 연결리스트</a><br>
+5. <a href = "https://velog.io/@falling_star3/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9DStack%ED%81%90Queue%EB%8D%B1Deque"> 스택, 큐, 덱 </a><br>
+6. <a href = "https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html">트리</a><br>
+7. <a href = "https://suyeon96.tistory.com/31">우선순위 큐, 힙</a><br>
+9. <a href = "https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html">그래프(DFS,BFS)</a><br>
+10. 해시테이블
+11. 정렬
+12. 다이나믹(동적 계획법)
+13. 그리디
+14. 이진탐색
+15. 최단경로
 
 _[목차로 이동](#zap목차)_
 
