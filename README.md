@@ -37,9 +37,9 @@ _[목차로 이동](#zap목차)_
 | [장정윤](https://github.com/jeinie) | X | X | [김준성](https://github.com/newJunsung) |
 
 **20기**
-| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/YJMINT"><img src="https://avatars.githubusercontent.com/u/105741144?v=4" width="90" height="90"></a> | <a href="https://github.com/S-DPR"><img src="https://avatars.githubusercontent.com/u/108619579?v=4" width="90" height="90"></a> | X | X | X |
+| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/YJMINT"><img src="https://avatars.githubusercontent.com/u/105741144?v=4" width="90" height="90"></a> | <a href="https://github.com/S-DPR"><img src="https://avatars.githubusercontent.com/u/108619579?v=4" width="90" height="90"></a> | <a href="https://github.com/YoonhyeSuh"><img src="https://avatars.githubusercontent.com/u/106311524?v=4" width="90" height="90"></a> | X | X |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| [오인성](https://github.com/ois0886) | [정윤주](https://github.com/YJMINT) | [추영광](https://github.com/S-DPR) | X | X | X |
+| [오인성](https://github.com/ois0886) | [정윤주](https://github.com/YJMINT) | [추영광](https://github.com/S-DPR) | [서윤혜](https://github.com/YoonhyeSuh) | X | X |
 
 **21기**
 | X | X |
