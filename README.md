@@ -42,9 +42,9 @@ _[목차로 이동](#zap목차)_
 | [오인성](https://github.com/ois0886) | [정윤주](https://github.com/YJMINT) | [추영광](https://github.com/S-DPR) | [서윤혜](https://github.com/YoonhyeSuh) | X | X |
 
 **21기**
-| X | X |
+| <a href="https://github.com/isnonyou"><img src="https://avatars.githubusercontent.com/u/109057475?v=4" width="90" height="90"></a> | X |
 | ----- | ----- |
-| X | X |
+| [이서원](https://github.com/isnonyou) | X |
 
 _[목차로 이동](#zap목차)_
 
